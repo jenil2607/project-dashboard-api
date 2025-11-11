@@ -1,63 +1,65 @@
-[
-  {
-    "id": 1,
-    "title": "New onboarding experience",
-    "description": "Odio non auctor metus molestie cras nullam malesuada accumsan neque sed torquent conubia.",
-    "tag": "howto",
-    "views": 124,
-    "comments": 7,
-    "status": "active",
-    "starred": false,
-    "members": [{ "initials": "W" }]
-  },
-  {
-    "id": 2,
-    "title": "Push notifications",
-    "description": "Euismod molestie pellentesque tincidunt porta venenatis quis velit vel et pretium imperdiet tortor.",
-    "tag": "feature",
-    "views": 1300,
-    "comments": 6,
-    "status": "active",
-    "starred": false,
-    "members": [
-      { "avatar": "https://i.pravatar.cc/40?img=1" },
-      { "avatar": "https://i.pravatar.cc/40?img=2" }
-    ]
-  },
-  {
-    "id": 3,
-    "title": "Interview recordings",
-    "description": "Nulla enim est magnis",
-    "tag": "improvement",
-    "views": 23000,
-    "comments": 16,
-    "status": "active",
-    "starred": true,
-    "members": [
-      { "avatar": "https://i.pravatar.cc/40?img=3" },
-      { "avatar": "https://i.pravatar.cc/40?img=4" }
-    ]
-  },
-  {
-    "id": 4,
-    "title": "Library views",
-    "description": "Laudantium architecto voluptatibus eos incidunt quia voluptas.",
-    "tag": "new",
-    "views": 2,
-    "comments": 0,
-    "status": "draft",
-    "starred": false,
-    "members": [{ "avatar": "https://i.pravatar.cc/40?img=5" }]
-  },
-  {
-    "id": 5,
-    "title": "Pricing & Packaging",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "tag": "pricing",
-    "views": 1,
-    "comments": 0,
-    "status": "draft",
-    "starred": true,
-    "members": [{ "avatar": "https://i.pravatar.cc/40?img=6" }]
-  }
-]
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "New onboarding experience",
+      "description": "Odio non auctor metus molestie cras nullam malesuada accumsan neque sed torquent conubia.",
+      "tag": "howto",
+      "views": 124,
+      "comments": 7,
+      "status": "active",
+      "starred": false,
+      "members": [{ "initials": "W" }]
+    },
+    {
+      "id": 2,
+      "title": "Push notifications",
+      "description": "Euismod molestie pellentesque tincidunt porta venenatis quis velit vel et pretium imperdiet tortor.",
+      "tag": "feature",
+      "views": 1300,
+      "comments": 6,
+      "status": "active",
+      "starred": false,
+      "members": [
+        { "avatar": "https://i.pravatar.cc/40?img=1" },
+        { "avatar": "https://i.pravatar.cc/40?img=2" }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Interview recordings",
+      "description": "Nulla enim est magnis",
+      "tag": "improvement",
+      "views": 23000,
+      "comments": 16,
+      "status": "active",
+      "starred": true,
+      "members": [
+        { "avatar": "https://i.pravatar.cc/40?img=3" },
+        { "avatar": "https://i.pravatar.cc/40?img=4" }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Library views",
+      "description": "Laudantium architecto voluptatibus eos incidunt quia voluptas.",
+      "tag": "new",
+      "views": 2,
+      "comments": 0,
+      "status": "draft",
+      "starred": false,
+      "members": [{ "avatar": "https://i.pravatar.cc/40?img=5" }]
+    },
+    {
+      "id": 5,
+      "title": "Pricing & Packaging",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "tag": "pricing",
+      "views": 1,
+      "comments": 0,
+      "status": "draft",
+      "starred": true,
+      "members": [{ "avatar": "https://i.pravatar.cc/40?img=6" }]
+    }
+  ]
+}
